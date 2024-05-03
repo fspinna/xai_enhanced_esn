@@ -5,7 +5,7 @@ import numpy as np
 
 @dataclass
 class ExperimentParams:
-    random_seed: Optional[int] = None
+    random_seed: Optional[int] = 0
     multiply_by_inputs: bool = True
     noise_scale: float = 0.1
     noise_ratio: float = 1.0

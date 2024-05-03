@@ -86,7 +86,7 @@ store(
     make_config(
         hydra_defaults=[
             "_self_",
-            {"dataset": "Chinatown"},
+            {"dataset": "Wine"},
             {"esn": "default"},
             {"experiment_params": "default"},
             {"clf": "default"},
