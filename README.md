@@ -1,1 +1,1 @@
-# xai_enhanced_esn
+# Enhancing Echo State Networks with Gradient-based Explainability Methods
